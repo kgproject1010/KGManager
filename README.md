@@ -1,5 +1,5 @@
 ![knsgnwn](https://telegra.ph/file/71bb20b6b250e0341e10d.jpg)
-# 🤖KNSGNWNXROBOT🤖
+# KNSGNWN MANAGER
 
 <p align="center">
 -🤴 KNSGNWN MANAGER AKAN MEMBANTU MENJAGA GROUP KALIAN 🤴-

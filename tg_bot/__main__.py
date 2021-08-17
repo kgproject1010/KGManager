@@ -28,7 +28,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ʜᴇʟʟᴏ!! {}, ᴋᴇɴᴀʟɪɴ sᴀʏᴀ {}!
 sᴀʏᴀ ᴀᴅᴀʟᴀʜ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ʏᴀɴɢ sᴀɴɢᴀᴛ ᴄᴀɴɢɢɪʜ ᴅᴀɴ ᴘʀᴀᴋᴛɪs,sᴀʏᴀ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴋᴀᴍᴜ ᴍᴇɴᴊᴀɢᴀ ɢʀᴏᴜᴘ
-ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴀʜᴀᴍ sɪʟᴀᴋᴀɴ ᴋᴇᴛɪᴋ /help
+ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴀʜᴀᴍ sɪʟᴀᴋᴀɴ ᴋᴇᴛɪᴋ /help ᴀᴛᴀᴜ ʟɪʜᴀᴛ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/rakasupport)
+ᴛʜᴀɴᴋs ᴛᴏ 🤖[ᴋɢ](https://t.me/knsgnwn)
 """
 
 HELP_STRINGS = """

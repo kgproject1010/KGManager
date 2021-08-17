@@ -1,5 +1,5 @@
-![knsgnwn](https://telegra.ph/file/71bb20b6b250e0341e10d.jpg)
-# KNSGNWN MANAGER
+![knsgnwn](https://telegra.ph/file/a427379bbad5e8bd4b7e1.jpg)
+# <p align="center">  KGMANAGER
 
 <p align="center">
 -🤴 KNSGNWN MANAGER AKAN MEMBANTU MENJAGA GROUP KALIAN 🤴-

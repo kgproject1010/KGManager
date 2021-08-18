@@ -140,7 +140,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 TECHNO_IMG,
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="ɢʀᴏᴜᴘ",
-                                                                       url="t.me/KGSupportgroup),
+                                                                       url="t.me/KGSupportgroup"),
                                                                                    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ",
                                                                        url="t.me/rakasupport")],
                                                                                    [InlineKeyboardButton(text="➕ ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ➕",

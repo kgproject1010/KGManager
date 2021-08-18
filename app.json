@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/71bb20b6b250e0341e10d.jpg"    
+         "value": "https://telegra.ph/file/a427379bbad5e8bd4b7e1.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -115,6 +115,6 @@
       "bot"
    ],
    "logo": "https://telegra.ph/file/71bb20b6b250e0341e10d.jpg",
-   "name": "KNSGNWN MANAGER",
-   "repository": "https://github.com/rakaanjay/manager-knsgnwn"
+   "name": "KGMANAGER",
+   "repository": "https://github.com/kgproject/KGManager"
 }

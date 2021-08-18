@@ -28,7 +28,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ʜᴇʟʟᴏ!! {}, ᴋᴇɴᴀʟɪɴ sᴀʏᴀ {}!
 sᴀʏᴀ ᴀᴅᴀʟᴀʜ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ʏᴀɴɢ sᴀɴɢᴀᴛ ᴄᴀɴɢɢɪʜ ᴅᴀɴ ᴘʀᴀᴋᴛɪs,sᴀʏᴀ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴋᴀᴍᴜ ᴍᴇɴᴊᴀɢᴀ ɢʀᴏᴜᴘ
-ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴀʜᴀᴍ sɪʟᴀᴋᴀɴ ᴋᴇᴛɪᴋ /help ᴀᴛᴀᴜ ʟɪʜᴀᴛ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/rakasupport)
+ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴀʜᴀᴍ sɪʟᴀᴋᴀɴ ᴋᴇᴛɪᴋ /help ᴀᴛᴀᴜ ʟɪʜᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/rakasupport)
 ᴛʜᴀɴᴋs ᴛᴏ [🤖 ᴋɢ](https://t.me/knsgnwn)
 """
 
@@ -140,7 +140,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 TECHNO_IMG,
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="ɢʀᴏᴜᴘ",
-                                                                       url="t.me/instagramindonesia1),
+                                                                       url="t.me/KGSupportgroup),
                                                                                    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ",
                                                                        url="t.me/rakasupport")],
                                                                                    [InlineKeyboardButton(text="➕ ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ➕",

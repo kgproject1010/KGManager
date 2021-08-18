@@ -12,11 +12,11 @@ The easiest way to deploy this Bot
 </p>
  
 TOLONG JANGAN DI COPY YA CAPE GES🙏
-
-* Bot Link:  <a href="https://t.me/knsgnwnXrobot" alt="knsgnwn robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-knsgnwnXrobot-blue" /> </a>
-* Channel: <a  href="https://t.me/rakasupport" alt="knsgnwnsupport"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-knsgnwnsupport-9cf" /> </a>
-* owner bot:  <a href="https://t.me/knsgnwn" alt="knsgnwn"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-knsgnwn-black" /> </a>
+![KGPROJECT](https://telegra.ph/file/d90de32bd8864d38e2467.jpg)
+* Bot Link:  <a href="https://t.me/KGSuperbot" alt="KGSuperbot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-KGSuperbot-blue" /> </a>
+* Channel: <a  href="https://t.me/rakasupport" alt="knsgnwnsupport"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-KGSUPPORT-9cf" /> </a>
+* owner bot:  <a href="https://t.me/knsgnwn" alt="knsgnwn"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-KG-black" /> </a>
 * owner project:  <a href="https://t.me/rakaaanjayy" alt="rakaanjayy"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-rakahadehh-green" /> </a>
 
 Support group [INSTAGRAM INDONESIA](https://t.me/instagramindonesia1)
-jika ada kendala apa apa bisa hubungi [knsgnwn](https://t.me/knsgnwn)
+jika ada kendala apa apa bisa hubungi [KG](https://t.me/knsgnwn)
